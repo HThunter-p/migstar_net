@@ -1,0 +1,10 @@
+{
+  "Body": {
+    "stkCallback": {
+      "MerchantRequestID": "TEST-MERCHANT",
+      "CheckoutRequestID": "TEST-CHECKOUT",
+      "ResultCode": 0,
+      "ResultDesc": "The service request is processed successfully."
+    }
+  }
+}
